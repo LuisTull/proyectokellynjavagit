@@ -15,4 +15,5 @@ Si el archivo no es clonado se debe de crear el mismo con el nombre citado anter
 Este programa consta de un login, un registro, vista, edicion y tambien eliminacion de usuarios, la interfaz se hizo en codigo por inconvenientes con el manejador de los forms y los espacios blancos
 
 Casi se me olvida, se debe agregar la libreria para los .env `io.github.cdimascio.dotenv`, el mismo se puede agregar en la seccion de librerias seleccionando maven y colocando `dotenv-java`
-La otra libreria es `mysql-connector-j-9.2.0` o simplemente el conector de mysql para java
+La otra libreria es `mysql-connector-j-9.2.0` o simplemente el conector de mysql para java, el mismo se encuentra en la siguiente direccion: 
+```https://dev.mysql.com/downloads/connector/j/```
