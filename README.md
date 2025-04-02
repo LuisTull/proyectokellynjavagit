@@ -11,3 +11,5 @@ hay un archivo llamado `.env` en el que se encuentran los campos concernientes a
 
 Si el archivo no es clonado se debe de crear el mismo con el nombre citado anteriormente 
 > .env
+
+Este programa consta de un login, un registro, vista, edicion y tambien eliminacion de usuarios, la interfaz se hizo en codigo por inconvenientes con el manejador de los forms y los espacios blancos
